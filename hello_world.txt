@@ -1,1 +1,4 @@
 Intial test added to hello world text file.
+
+Next commit is to test the option using Visual Studio code to type the commit message. 
+using git commit instead of git commit -m
